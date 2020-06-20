@@ -1,0 +1,19 @@
+{
+  "name": "web-scrapping",
+  "version": "1.0.0",
+  "description": "A small web-app to scrap price from amazon websites.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "node-schedule": "^1.3.2",
+    "nodemailer": "^6.4.10",
+    "puppeteer": "^4.0.0"
+  }
+}
